@@ -28,9 +28,8 @@ This project covers the full database development lifecycle: entity-relationship
 
 | File | Description |
 |---|---|
-| `ERD Assessment_1.png` | Entity-relationship diagram |
 | `schema.sql` | Full DDL — tables, views, functions, triggers, and test data |
-| `Part3.py` | Python script for PostgreSQL interaction |
+| `Python.py` | Python script for PostgreSQL interaction |
 | `python_postgresql_notes.txt` | Notes on Python–PostgreSQL connection setup |
 
 ## Running the schema
