@@ -46,4 +46,4 @@ python Part3.py
 ```
 
 ---
-*Database Management module — Assessment 1, 2025–26.*
+*Database Management module — Coursework 1, 2025–26.*
